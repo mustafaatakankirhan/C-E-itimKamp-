@@ -1,0 +1,8 @@
+C:\Users\musta\Source\Repos\eğitimkampıC#\0.3_makingDecision\bin\Debug\0.3_makingDecision.exe.config
+C:\Users\musta\Source\Repos\eğitimkampıC#\0.3_makingDecision\bin\Debug\0.3_makingDecision.exe
+C:\Users\musta\Source\Repos\eğitimkampıC#\0.3_makingDecision\bin\Debug\0.3_makingDecision.pdb
+C:\Users\musta\Source\Repos\eğitimkampıC#\0.3_makingDecision\obj\Debug\0.3_makingDecision.csproj.AssemblyReference.cache
+C:\Users\musta\Source\Repos\eğitimkampıC#\0.3_makingDecision\obj\Debug\0.3_makingDecision.csproj.CoreCompileInputs.cache
+C:\Users\musta\Source\Repos\eğitimkampıC#\0.3_makingDecision\obj\Debug\0.3_makingDecision.exe
+C:\Users\musta\Source\Repos\eğitimkampıC#\0.3_makingDecision\obj\Debug\0.3_makingDecision.pdb
+C:\Users\musta\Source\Repos\eğitimkampıC#\0.3_makingDecision\obj\Debug\0.3_makingDecision.exe.config
